@@ -1,12 +1,12 @@
 class config:
     
     #Client
-    API_ID = 0
-    API_HASH = "0"
-    BOT_TOKEN = "0:0-0"
-    BOT_NAME = "Your_Bot_Name"
-    BOT_USERNAME = "Your_Bot_Username"
-    BOT_ID = 0
+    API_ID = 27323120
+    API_HASH = "8e82c0f9e36066f84ad663ab11ab0637"
+    BOT_TOKEN = "7667702659:AAHPIU2yQEMrbOu696qO93VaKcg92h6j5DM"
+    BOT_NAME = "Dream"
+    BOT_USERNAME = "Yumiko_x_bot"
+    BOT_ID = 7667702659
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
@@ -19,13 +19,13 @@ class config:
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 5630057244
-    OWNER_USERNAME = "senpaiii10"
-    SUPPORT_CHAT = -1002069412308
+    OWNER_ID = 6289029511
+    OWNER_USERNAME = "Yash_747"
+    SUPPORT_CHAT = -1002288846111
     SUPPORT_CHAT_USERNAME = "Domihoes"
     SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
-    LOG_CHANNEL = -1001625036774
-    ERROR_LOG_CHANNEL = -1001625036774
+    LOG_CHANNEL = -1002288846111
+    ERROR_LOG_CHANNEL = -1002288846111
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
@@ -36,8 +36,8 @@ class config:
     
     
     #Database
-    MONGODB_URI = "mongodb://localhost:27017" # Use Local Hosted Or Atlas !!
-    DATABASE_NAME = "Frieren"
+    MONGODB_URI = "mongodb+srv://Avon:Avon@avon.fstai.mongodb.net/?retryWrites=true&w=majority" # Use Local Hosted Or Atlas !!
+    DATABASE_NAME = "Avon"
 
     #API
     ARQ_API_KEY = "RLWCED-WZASYO-AWOLTB-ITBWTP-ARQ"
